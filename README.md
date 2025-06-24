@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **vennela-reddy2907/vennela-reddy2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm <span style="color:#007bff;">Vennela Vanamala</span></h1>
 <h3 align="center">👩‍💻 Frontend Web Developer | 📊 Data Enthusiast | 🌐 Open to Freelance</h3>
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vennela-reddy2907&label=Profile+Views&color=007bff&style=flat" alt="Profile Views" />
 </p>
-
+-->
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Frontend Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-React.js-yellow?style=flat-square" />
