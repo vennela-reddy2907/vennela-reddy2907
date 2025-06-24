@@ -14,3 +14,101 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Header -->
+<h1 align="center">Hey 👋, I'm <span style="color:#007bff;">Vennela Vanamala</span></h1>
+<h3 align="center">👩‍💻 Frontend Web Developer | 📊 Data Enthusiast | 🌐 Open to Freelance</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vennela-reddy2907&label=Profile+Views&color=007bff&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Frontend Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-React.js-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Data%20Analysis-orange?style=flat-square" />
+</p>
+
+---
+
+
+
+### 🌟 About Me
+
+I’m a **frontend web developer** with a strong foundation in  
+**HTML**, **CSS**, **JavaScript**, and frameworks like **React**.  
+I'm passionate about building **responsive and accessible web applications**.
+
+- 🔍 Always eager to explore new technologies  
+- 📊 Interested in data analysis and real-world datasets  
+- 🤝 Open to **freelance projects** and collaborative development  
+- 🚀 Currently focusing on full-stack and contributing to open source
+
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+### 📬 Reach Me Here
+
+<p align="center">
+  <a href="mailto:vennela@example.com" title="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vennela-vanamala/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/your_instagram_username" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vennela-reddy2907" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+### ✨ Random Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+---
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vennela-reddy2907&theme=dracula&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vennela-reddy2907&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennela-reddy2907&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+
+
+
+
+
