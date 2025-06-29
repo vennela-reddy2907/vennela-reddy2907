@@ -1,5 +1,13 @@
+
+
+
+
+
+
+
 <!--Banner-->
-![vennela-reddy2907 Banner Image]([./banner.png](https://www.canva.com/design/DAGrtEih5wM/PQolCc1rzLO8_WRBfxv2JA/edit?utm_content=DAGrtEih5wM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+
+![vennela-reddy2907 Banner Image](./h.png)
 <!--
 **vennela-reddy2907/vennela-reddy2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +24,12 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-<h1 align="center">Hey 👋, I'm <span style="color:#007bff;">Vennela Vanamala</span></h1>
-<h3 align="center">👩‍💻 Frontend Web Developer | 📊 Data Enthusiast | 🌐 Open to Freelance</h3>
+<h1 align="left">Hey
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle"/> , 
+
+
+  I'm <span style="color:#007bff;">V Vennela! </span></h1>
+<h3 align="left">👩‍💻 Frontend Web Developer | 📊 Data Enthusiast | 🌐 Open to Freelance</h3>
 <!--
 
 <p align="center">
@@ -36,11 +48,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Learning-Data%20Analysis-orange?style=flat-square" />
 </p>
 
----
+<br>
 
 
 
-### 🌟 About Me
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/>  About Me
 
 I’m a **frontend web developer** with a strong foundation in  
 **HTML**, **CSS**, **JavaScript**, and frameworks like **React**.  
@@ -102,6 +114,7 @@ I'm passionate about building **responsive and accessible web applications**.
 
 
 <h2></h2>
+
 ### ✨ Random Quote of the Day
 
 <p align="center">
