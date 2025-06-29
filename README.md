@@ -53,19 +53,27 @@ I'm passionate about building **responsive and accessible web applications**.
 
 <h2></h2>
 
+
 ### 🚀 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+   <br>
   <img src="https://img.shields.io/badge/java-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+   <br>
   <img src="https://img.shields.io/badge/canva-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+   <br>
   <img src="https://img.shields.io/badge/vscode-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 <h2></h2>
+
 ### 📬 Reach Me Here
 
 <p align="center">
@@ -102,14 +110,13 @@ I'm passionate about building **responsive and accessible web applications**.
 
 <h1></h1>
 
-### 📈 GitHub Stats & Streaks
+### 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vennela-reddy2907&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennela-reddy2907&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  
 
 
 <p align="center" >
