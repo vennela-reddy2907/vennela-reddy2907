@@ -1,5 +1,4 @@
 
-
 <!--
 **vennela-reddy2907/vennela-reddy2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm <span style="color:#007bff;">Vennela Vanamala</span></h1>
 <h3 align="center">👩‍💻 Frontend Web Developer | 📊 Data Enthusiast | 🌐 Open to Freelance</h3>
 <!--
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vennela-reddy2907&label=Profile+Views&color=007bff&style=flat" alt="Profile Views" />
 </p>
 -->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Frontend Developer-blue?style=flat-square" />
@@ -46,7 +51,7 @@ I'm passionate about building **responsive and accessible web applications**.
 - 🚀 Currently focusing on full-stack and contributing to open source
 
 
----
+<h2></h2>
 
 ### 🚀 Tech Stack
 
@@ -60,7 +65,7 @@ I'm passionate about building **responsive and accessible web applications**.
   <img src="https://img.shields.io/badge/vscode-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
+<h2></h2>
 ### 📬 Reach Me Here
 
 <p align="center">
@@ -79,14 +84,14 @@ I'm passionate about building **responsive and accessible web applications**.
 </p>
 
 
----
+<h2></h2>
 ### ✨ Random Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
----
+<h2></h2>
 
 
 ### 🏆 GitHub Trophies
@@ -95,7 +100,7 @@ I'm passionate about building **responsive and accessible web applications**.
   <img src="https://github-profile-trophy.vercel.app/?username=vennela-reddy2907&theme=dracula&margin-w=15&no-frame=true" />
 </p>
 
----
+<h1></h1>
 
 ### 📈 GitHub Stats & Streaks
 
@@ -106,10 +111,12 @@ I'm passionate about building **responsive and accessible web applications**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennela-reddy2907&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+
+<p align="center" >
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 ---
-
-
-
 
 
 
