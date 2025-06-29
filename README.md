@@ -5,6 +5,10 @@
 
 
 
+
+<div  style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
+
+
 <!--Banner-->
 
 ![vennela-reddy2907 Banner Image](./h.png)
@@ -24,11 +28,17 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-<h1 align="left">Hey
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle"/> , 
+<h1 align="left" size=39>
+  Hey
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle" />
+  <br><br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=35&pause=1000&color=525CEB&center=false&width=600&lines=I'm+Vennela!" alt="Typing SVG" />
+</h1>
 
 
-  I'm <span style="color:#007bff;">V Vennela! </span></h1>
+
+  <!--I'm <span style="color:#007bff;">V Vennela! </span></h1>-->
 <h3 align="left">👩‍💻 Frontend Web Developer | 📊 Data Enthusiast | 🌐 Open to Freelance</h3>
 <!--
 
@@ -48,7 +58,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Learning-Data%20Analysis-orange?style=flat-square" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vennela123&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+
 
 
 
