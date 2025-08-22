@@ -146,9 +146,7 @@ I'm passionate about building **responsive and accessible web applications**.
 
 <h1></h1>
 
-### Mepro Badge
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="17c10d45-cba2-4de8-b345-b13bad132b30" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### 📈 GitHub Stats 
 
